@@ -1,2 +1,3 @@
 # hw7
-7th "Digital Literacy" homework
+
+[Гугл-док с выполненным заданием](https://goo.gl/gJGuVP)
